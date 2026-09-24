@@ -2,7 +2,7 @@
 
 A mobile-friendly deadline tracker for students juggling more than one degree. Built with plain HTML, CSS, and JavaScript in a single file, no install or account needed.
 
-**Live app:** [(https://due-date-three.vercel.app/)]
+**Live app:** https://due-date-three.vercel.app/
 
 ## Why I built it
 
