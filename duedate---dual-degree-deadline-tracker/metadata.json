@@ -1,6 +1,0 @@
-{
-  "name": "DueDate - Dual-Degree Deadline Tracker",
-  "description": "Minimal, urgency-sorted deadline tracker for college students managing offline engineering and online data science degrees.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
